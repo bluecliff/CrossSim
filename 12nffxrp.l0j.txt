@@ -1,0 +1,93 @@
+﻿2013学年面向对象课程设计，交通十字路口仿真程序
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   13prj.pdf
+#	new file:   CrossSim.sln
+#	new file:   CrossSim.suo
+#	new file:   CrossSim/CrossSim.vcxproj
+#	new file:   CrossSim/CrossSim.vcxproj.filters
+#	new file:   CrossSim/CrossSim.vcxproj.user
+#	new file:   CrossSim/Debug/CL.read.1.tlog
+#	new file:   CrossSim/Debug/CL.write.1.tlog
+#	new file:   CrossSim/Debug/CrossSim.exe.embed.manifest
+#	new file:   CrossSim/Debug/CrossSim.exe.embed.manifest.res
+#	new file:   CrossSim/Debug/CrossSim.exe.intermediate.manifest
+#	new file:   CrossSim/Debug/CrossSim.lastbuildstate
+#	new file:   CrossSim/Debug/CrossSim.log
+#	new file:   CrossSim/Debug/CrossSim_manifest.rc
+#	new file:   CrossSim/Debug/car.obj
+#	new file:   CrossSim/Debug/cl.command.1.tlog
+#	new file:   CrossSim/Debug/cross.obj
+#	new file:   CrossSim/Debug/halfcross.obj
+#	new file:   CrossSim/Debug/intersection.obj
+#	new file:   CrossSim/Debug/link-cvtres.read.1.tlog
+#	new file:   CrossSim/Debug/link-cvtres.write.1.tlog
+#	new file:   CrossSim/Debug/link.3476-cvtres.read.1.tlog
+#	new file:   CrossSim/Debug/link.3476-cvtres.write.1.tlog
+#	new file:   CrossSim/Debug/link.3476.read.1.tlog
+#	new file:   CrossSim/Debug/link.3476.write.1.tlog
+#	new file:   CrossSim/Debug/link.4516-cvtres.read.1.tlog
+#	new file:   CrossSim/Debug/link.4516-cvtres.write.1.tlog
+#	new file:   CrossSim/Debug/link.4516.read.1.tlog
+#	new file:   CrossSim/Debug/link.4516.write.1.tlog
+#	new file:   CrossSim/Debug/link.6512-cvtres.read.1.tlog
+#	new file:   CrossSim/Debug/link.6512-cvtres.write.1.tlog
+#	new file:   CrossSim/Debug/link.6512.read.1.tlog
+#	new file:   CrossSim/Debug/link.6512.write.1.tlog
+#	new file:   CrossSim/Debug/link.6620-cvtres.read.1.tlog
+#	new file:   CrossSim/Debug/link.6620-cvtres.write.1.tlog
+#	new file:   CrossSim/Debug/link.6620.read.1.tlog
+#	new file:   CrossSim/Debug/link.6620.write.1.tlog
+#	new file:   CrossSim/Debug/link.8308-cvtres.read.1.tlog
+#	new file:   CrossSim/Debug/link.8308-cvtres.write.1.tlog
+#	new file:   CrossSim/Debug/link.8308.read.1.tlog
+#	new file:   CrossSim/Debug/link.8308.write.1.tlog
+#	new file:   CrossSim/Debug/link.8976-cvtres.read.1.tlog
+#	new file:   CrossSim/Debug/link.8976-cvtres.write.1.tlog
+#	new file:   CrossSim/Debug/link.8976.read.1.tlog
+#	new file:   CrossSim/Debug/link.8976.write.1.tlog
+#	new file:   CrossSim/Debug/link.command.1.tlog
+#	new file:   CrossSim/Debug/link.read.1.tlog
+#	new file:   CrossSim/Debug/link.write.1.tlog
+#	new file:   CrossSim/Debug/map.obj
+#	new file:   CrossSim/Debug/mt.command.1.tlog
+#	new file:   CrossSim/Debug/mt.read.1.tlog
+#	new file:   CrossSim/Debug/mt.write.1.tlog
+#	new file:   CrossSim/Debug/rc.command.1.tlog
+#	new file:   CrossSim/Debug/rc.read.1.tlog
+#	new file:   CrossSim/Debug/rc.write.1.tlog
+#	new file:   CrossSim/Debug/road.obj
+#	new file:   CrossSim/Debug/signal_light.obj
+#	new file:   CrossSim/Debug/simulation.obj
+#	new file:   CrossSim/Debug/test.obj
+#	new file:   CrossSim/Debug/vc100.idb
+#	new file:   CrossSim/Debug/vc100.pdb
+#	new file:   CrossSim/car.cpp
+#	new file:   CrossSim/car.h
+#	new file:   CrossSim/cross.cpp
+#	new file:   CrossSim/cross.h
+#	new file:   CrossSim/gloable.h
+#	new file:   CrossSim/halfcross.cpp
+#	new file:   CrossSim/halfcross.h
+#	new file:   CrossSim/intersection.cpp
+#	new file:   CrossSim/intersection.h
+#	new file:   CrossSim/map.cpp
+#	new file:   CrossSim/map.h
+#	new file:   CrossSim/road.cpp
+#	new file:   CrossSim/road.h
+#	new file:   CrossSim/signal_light.cpp
+#	new file:   CrossSim/signal_light.h
+#	new file:   CrossSim/simulation.cpp
+#	new file:   CrossSim/test.cpp
+#	new file:   Debug/CrossSim.exe
+#	new file:   Debug/CrossSim.ilk
+#	new file:   Debug/CrossSim.pdb
+#
+
